@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/sharathminnu" name="origin"/>
-  <default remote="origin" sync-j="4" revision="master"/>
+  <default remote="origin" sync-j="4" revision="main"/>
   
   <project name="practicegit" path="f_practicegit"/>
   <project name="genisis" path="f_genisis"/>
